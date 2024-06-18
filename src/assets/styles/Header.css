@@ -1,0 +1,31 @@
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #bfd2a8;
+    color: #527249;
+    position: fixed;
+    padding-left: 10px;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo-1 {
+    font-size: 18px;
+    margin-right: 5px;
+}
+
+.nav ul {
+    display: flex;
+    list-style: none;
+}
+
+.nav li {
+    margin: 0 15px;
+}
