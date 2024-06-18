@@ -19,7 +19,7 @@ const ArticleContainer = () => {
                     <div className="article-text">
                         <h3>Depressão</h3>
                         <p>A psicanálise ajuda a desvendar as angústias que causam a depressão, possibilitando a construção de uma vida com mais significado e felicidade.</p>
-                        <a href="/artigo-depressao" className="btn-read-more">Ler mais</a>
+                        <a href="/article/depression" className="btn-read-more">Ler mais</a>
                     </div>
                 </div>
 
