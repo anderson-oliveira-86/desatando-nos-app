@@ -1,0 +1,33 @@
+.service-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px; /* espaço entre os cards */
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.service-card {
+    flex: 1;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #fff;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.service-card h3 {
+    margin-top: 0;
+    font-size: 1.5em;
+    color: #333;
+}
+
+.service-card p {
+    font-size: 1em;
+    color: #666;
+}
+
+.service-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}

@@ -11,8 +11,9 @@ const Header = () => {
       <nav className='nav'>
         <ul>
             <li>Home</li>
-            <li>Sobre</li>
-            <li>Serviço</li>
+            <li>Artigos</li>
+            <li>Psicólogas</li>
+            <li>Serviços</li>
             <li>Contato</li>
         </ul>
       </nav>
