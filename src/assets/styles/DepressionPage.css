@@ -1,0 +1,32 @@
+.depression-page {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .depression-page h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .depression-page h2 {
+    color: #555;
+    margin-top: 20px;
+  }
+  
+  .depression-page p {
+    line-height: 1.6;
+    color: #666;
+  }
+  
+  .depression-page ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .depression-page ul li {
+    margin-bottom: 10px;
+  }
+  
