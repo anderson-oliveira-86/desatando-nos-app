@@ -7,7 +7,7 @@ import Home from './components/Home';
 import ArticlePage from './components/ArticlePage';
 import App from './App';
 import ServicePage from './components/ServicePage';
-import ContactPage from './components/ContacPage';
+import ContactPage from './components/ContactPage';
 import DepressionPage from './components/DepressionPage';
 
 const router = createBrowserRouter([
